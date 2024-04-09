@@ -17,7 +17,7 @@ const Hireme = () => {
           <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dicta
             soluta quos tempore eos accusamus cupiditate, amet in similique
-            sapiente obcaecati odio deleniti architecto corporis ratione.
+            sapiente obcaecati odio deleti architecto corporis ratione.
             Consequatur a quidem maiores!
           </p>
           <button className="btn-primary mt-10">Say Hello</button>
